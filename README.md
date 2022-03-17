@@ -1,70 +1,109 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<h1 align="">
+     Elo-4 Store
+</h1>
 
-In the project directory, you can run:
+<h1 align="center">
+    <img width="250px" src="src/assets/logo.png">
+</h1>
 
-### `npm start`
+<h3 align="center"> 
+Ser feliz, é simples. É contagiante.  
+</h4>
+<h4 align="center">
+ Tudo que você precisa em um só lugar. Aproveite!
+ </h4>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## :book:  Sobre    
 
-### `npm test`
+A mini-loja fictícia <b>Elo-4 Store</b>, refere-se a um site para vendas dos mais diversos produtos, destinados à todos os gostos e públicos. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Na Elo-4 Store, você encontra variedade em roupas mordernas, artigos de decoração para casa, pelúcias personalizadas e até material escolar. Tudo em um só lugar, com os melhores preços!
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+##  🧭Status do Projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ :white_check_mark: Concluído.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+##  🎯Objetivo do Projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Este é um projeto Front-end, desenvolvido através do <b>Consumo da 'API Elo4'</b> no bootcamp da Labenu, cujos os principais objetivos foram o aprofundamento de fundamentamentos importantes para o desenvolvimento web Front-end, tais como: <b>Consumo de API; Async & Await; useState/useEffect; Hooks/Custom Hooks e React Router.</b>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## ☑️Requisitos de Funcionalidade
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- :white_check_mark: Página Inicial de navegação.
+- :white_check_mark: Página de Produtos + botão comprar.
+- :white_check_mark: Botão Comprar funcional.
+- :white_check_mark: Página do Carrinho.
+- :white_check_mark: Botão Remover produto funcional.
+- :white_check_mark: Calculadora do preço total da compra.
 
-### Code Splitting
+---
+## :rocket:Tecnologias e Ferramentas utilizadas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- <b>React-JS</b>
+- <b>Consumo de API</b>
+- <b>Async & Await</b>
+- <b>useState/useEffect</b>
+- <b>React Router</b>
+- <b>Hooks/Custom Hooks</b>
+- <b>Styled-components</b>
+- <b>Library Material - UI</b>
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 💻Demonstração
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<h1 align="center">
+    <img width="800px"src="src/assets/readme/elo1.PNG">
+  <img width="800px"src="src/assets/readme/elo2.PNG">
+  <img width="800px"src="src/assets/readme/elo3.PNG">
+</h1>
 
-### Advanced Configuration
+  <h1>
+    :iphone: <b>Mobile</b>
+  </h1>
+  <h1 align="center">
+    <img width="250px" height="500px" src="src/assets/readme/elo-4-store-gif.gif">
+  </h1>
+  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## 🔗Link para Acessar
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Link do Surge:** https://projeto-elo4store.surge.sh/
+
+---
+
+<!-- 
+## 🛰Rodando o Projeto
+
+~~EXPLICAR AQUI O PASSO A PASSO PARA CONSEGUIR RODAR E ACESSAR O PROJETO.~~
+
+Para Rodar o projeto, siga as seguintes etapas :
+
+- COLOCAR A ETAPA 1
+- COLOCAR A ETAPA 2
+- COLOCAR A ETAPA 3
+ -->
+
+---
+
+## 📝Sobre a Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
