@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center"> 
-Ser feliz, é simples. É contagiante.  
+Ser feliz é simples. É contagiante.  
 </h4>
 <h4 align="center">
  Tudo que você precisa em um só lugar. Aproveite!
