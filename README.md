@@ -1,7 +1,7 @@
 
 
 <h1 align="">
-     Elo-4 Store
+  :womans_hat: Elo-4 Store
 </h1>
 
 <h1 align="center">
@@ -17,7 +17,7 @@ Ser feliz é simples. É contagiante.
 
 ---
 
-## :book:  Sobre    
+## :tshirt: Sobre    
 
 A mini-loja fictícia <b>Elo-4 Store</b>, refere-se a um site para vendas dos mais diversos produtos, destinados à todos os gostos e públicos. 
 
@@ -35,7 +35,7 @@ Na Elo-4 Store, você encontra variedades em roupas mordernas, artigos de decora
 ##  🎯Objetivo do Projeto
 
 
-Este é um projeto Front-end, desenvolvido através do <b>Consumo da 'API Elo4'</b> no bootcamp da Labenu, cujos os principais objetivos foram os aprofundamentos de fundamentamentos importantes para o desenvolvimento web Front-end, tais como: <b>Consumo de API; Async & Await; useState/useEffect; Hooks/Custom Hooks e React Router.</b>
+Este é um projeto Front-end, desenvolvido através do Consumo da  [API Elo4](https://documenter.getpostman.com/view/7549981/Szmb81HX#301484b8-a7a6-45f8-a349-84448bfb248d), no bootcamp da Labenu, cujos os principais objetivos foram os aprofundamentos de fundamentamentos importantes para o desenvolvimento web Front-end, tais como: <b>Consumo de API; Async & Await; useState/useEffect; Hooks/Custom Hooks e React Router.</b>
 
 ---
 
