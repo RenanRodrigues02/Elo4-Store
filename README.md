@@ -21,7 +21,7 @@ Ser feliz é simples. É contagiante.
 
 A mini-loja fictícia <b>Elo-4 Store</b>, refere-se a um site para vendas dos mais diversos produtos, destinados à todos os gostos e públicos. 
 
-Na Elo-4 Store, você encontra variedade em roupas mordernas, artigos de decoração para casa, pelúcias personalizadas e até material escolar. Tudo em um só lugar, com os melhores preços!
+Na Elo-4 Store, você encontra variedades em roupas mordernas, artigos de decoração para casa, pelúcias personalizadas e até material escolar. Tudo em um só lugar, com os melhores preços!
 
 ---
 
@@ -35,7 +35,7 @@ Na Elo-4 Store, você encontra variedade em roupas mordernas, artigos de decora�
 ##  🎯Objetivo do Projeto
 
 
-Este é um projeto Front-end, desenvolvido através do <b>Consumo da 'API Elo4'</b> no bootcamp da Labenu, cujos os principais objetivos foram o aprofundamento de fundamentamentos importantes para o desenvolvimento web Front-end, tais como: <b>Consumo de API; Async & Await; useState/useEffect; Hooks/Custom Hooks e React Router.</b>
+Este é um projeto Front-end, desenvolvido através do <b>Consumo da 'API Elo4'</b> no bootcamp da Labenu, cujos os principais objetivos foram os aprofundamentos de fundamentamentos importantes para o desenvolvimento web Front-end, tais como: <b>Consumo de API; Async & Await; useState/useEffect; Hooks/Custom Hooks e React Router.</b>
 
 ---
 
@@ -43,7 +43,7 @@ Este é um projeto Front-end, desenvolvido através do <b>Consumo da 'API Elo4'<
 ## ☑️Requisitos de Funcionalidade
 
 - :white_check_mark: Página Inicial de navegação.
-- :white_check_mark: Página de Produtos + botão comprar.
+- :white_check_mark: Página de Produtos.
 - :white_check_mark: Botão Comprar funcional.
 - :white_check_mark: Página do Carrinho.
 - :white_check_mark: Botão Remover produto funcional.
@@ -90,20 +90,30 @@ Este é um projeto Front-end, desenvolvido através do <b>Consumo da 'API Elo4'<
 
 ---
 
-<!-- 
-## 🛰Rodando o Projeto
 
-~~EXPLICAR AQUI O PASSO A PASSO PARA CONSEGUIR RODAR E ACESSAR O PROJETO.~~
+## :wrench:Rodando o Projeto
 
 Para Rodar o projeto, siga as seguintes etapas :
 
-- COLOCAR A ETAPA 1
-- COLOCAR A ETAPA 2
-- COLOCAR A ETAPA 3
- -->
+  ``` bash
+ # Clonar repositório
+  
+  git clone https://github.com/RenanRodrigues02/Elo4-Store
 
----
+ # Entre no diretório do projeto
+  
+  cd Elo4-Store
+
+ # npm install
+
+ # npm run start
+
+```
 
 ## 📝Sobre a Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](https://github.com/RenanRodrigues02/Elo4-Store/blob/main/LICENSE).
+
+---
+
+ :construction_worker: <h3>Desenvolvido por [Renan Rodrigues](https://www.linkedin.com/in/dev-renan-rodrigues/).</h3>
