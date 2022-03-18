@@ -35,7 +35,7 @@ Na Elo-4 Store, você encontra variedades em roupas mordernas, artigos de decora
 ##  🎯Objetivo do Projeto
 
 
-Este é um projeto Front-end, desenvolvido através do Consumo da  [API Elo4](https://documenter.getpostman.com/view/7549981/Szmb81HX#301484b8-a7a6-45f8-a349-84448bfb248d), no bootcamp da Labenu, cujos os principais objetivos foram os aprofundamentos de fundamentamentos importantes para o desenvolvimento web Front-end, tais como: <b>Consumo de API; Async & Await; useState/useEffect; Hooks/Custom Hooks e React Router.</b>
+Este é um projeto Front-end, desenvolvido através do Consumo da  [API Elo4](https://documenter.getpostman.com/view/7549981/Szmb81HX#301484b8-a7a6-45f8-a349-84448bfb248d), no bootcamp da Labenu, cujos os principais objetivos foram aprofundar diversos fundamentamentos importantes para o desenvolvimento web Front-end, tais como: <b>Consumo de API; Async & Await; useState/useEffect; Hooks/Custom Hooks e React Router.</b>
 
 ---
 
